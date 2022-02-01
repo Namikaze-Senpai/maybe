@@ -1,4 +1,4 @@
-![Enterprise](https://i.imgur.com/IYqzviU.jpg)
+![Enterprise]()
 # Kigyō bot // @KigyoRobot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
